@@ -1,0 +1,6 @@
+# Search engines and AI assistants (Google, Bing, ChatGPT, Claude,
+# Perplexity and others) are all welcome to crawl this site.
+User-agent: *
+Allow: /
+
+Sitemap: https://ajargurung.me/sitemap.xml
